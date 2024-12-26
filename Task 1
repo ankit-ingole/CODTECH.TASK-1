@@ -1,0 +1,89 @@
+//first task - portfolio 
+
+<!DOCTYPE html><html lang="en"><head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content='width=devi
+
+ce-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="https://my--
+
+portfolio.tiiny.site/style.CSS">
+
+<link rel="stylesheet" href="https://cdnj s.cloudflare.com/ajax/libs/font-awesome/6.7.1 /css/all.min.css" integrity: sha512-5Hs3dF2AE +1RSJNeM2ECkwxUIxC1Q/FLycQTbNapWXB4tP889k5T5J u8fs4b1P5z/iB4nMfSQ== crossorigin='anonymous referrerpolicy'no-referrer">
+
+
+<title>PORTFILIO</title>
+
+<script defer" data-domain-my-portfolio.t iiny.site' src='https://analytics.tiiny.site/ js/plausible.js"></script><script type="text/ javascript" src="https://tiiny.host/ad-script js'></script></head>
+
+<body>
+
+<header>
+
+<a href="#" class="logo">Ankit</a>
+
+<nav>
+
+<a href="#" class="active">Home</a>
+
+<!--<a href="#">Services</a>-->
+
+<a href="#">Skill</a>
+
+<a href="#">Education</a>
+
+<a href="#">Experience</a>
+
+<a href='contact.HTML" target="main">Co
+
+ntact</a>
+
+</nav>
+
+</header>
+
+<section class="home">
+
+<div class="home-img">
+
+<img src='https://my--portfolio.tiiny.site/b2c64613095fbca8811300c0dbf9d7b2.jpg" a1t="">
+
+</div>
+
+<div class="home-content">
+
+<h1>Hi,it's <span>Ankit</span></h1>
+
+<h3 class="typing-text">I'm a- <span>
+
+</span></h3>
+
+<p>Hi, I'm Ankit, a passionate and de dicated web developer with expertise in creat ing user-friendly and visually engaging web a pplications. I specialize in front-end and ba ck-end development, ensuring responsive desig ns and seamless user experiences. My skills i nclude HTML, CSS, JavaScript, and modern fram eworks like React and Node.js. I enjoy bringi ng creative ideas to life through clean and e fficient code.</p>
+
+<div class="social-icons'>
+
+<a href="https://www.linkedin.com /in/ankit-ingole-005017336?utm_source=share& amp;utm_campaign=share_via&amp; utm_content=profile&amp;utm_medium=android_app"><i class="fa-brands f a-linkedin"></i></a>
+
+<a href='https://www.instagram.co m/ankit ingole/profilecard/?igsh=MTJrZzFqNnRlejQybg=="><i class="fa-brand
+
+a fa-square-instagram"></i>
+
+</a><a href="ankitingole02@gmail. com'>i class="fa-duotone fa-regular fa-at">< /1>
+
+</a><a href="#"><i class="fa-soli
+
+d fa-web-awesome"></i>
+
+</a></div><a href="#">
+
+</a><a href='contact.HTML" class="btn>Hire me</a>
+
+</div>
+
+</section>
+
+</body>
+</html>
