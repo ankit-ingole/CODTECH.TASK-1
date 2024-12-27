@@ -8,7 +8,7 @@ Duration: December 17th, 2024 to February 17th, 2025
 
 Mentor: Neela Santhosh Kumar
 
-Overview of the Project
+• Overview of the Project
 
 Project: PERSONAL PORTFOLIO WEBSITE
 
