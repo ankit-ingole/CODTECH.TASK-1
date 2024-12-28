@@ -12,6 +12,8 @@ Mentor: Neela Santhosh Kumar
 
 Project: PERSONAL PORTFOLIO WEBSITE
 
+[![IMG-20241228-142251.jpg](https://i.postimg.cc/sfqXN0BC/IMG-20241228-142251.jpg)](https://postimg.cc/qgc4twX1)
+
 • objective:
 
 The objective of this portfolio project is to showcase your skills and experience as a web developer. It serves as a personal online.
