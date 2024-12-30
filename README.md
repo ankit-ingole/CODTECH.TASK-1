@@ -30,8 +30,6 @@ UI/UX Design: Plan the user interface (UI) and user experience (UX) for a clean,
 Choosing Color Scheme & Typography: Select appropriate colors and fonts that reflect your personal brand and ensure readability.
 3. Developing the Website
 HTML & CSS: Create the structure (HTML) and style (CSS) of the portfolio. Make sure the website is responsive and works across different devices.
-JavaScript: Add interactivity to the website, such as animations, transitions, and dynamic content (e.g., typing effect, modal windows).
-Frameworks and Libraries: Utilize modern frameworks like React or Node.js for dynamic content or a smooth back-end experience, if applicable.
 Social Media Integration: Embed social media links (e.g., LinkedIn, Instagram) and add appropriate icons using FontAwesome.
 4. Content Creation
 Introduction/About Section: Write a compelling personal introduction highlighting your skills, background, and experience.
@@ -46,4 +44,3 @@ Contact Information: Provide your email, LinkedIn, or other professional social 
 
 • CSS (Cascading Style Sheets): Used for styling and layout of the webpage, including colors, fonts, spacing, and responsive design.
 
-• JavaScript: Adds interactivity and dynamic content to the website (e.g., animations, form validation, interactive elements).
